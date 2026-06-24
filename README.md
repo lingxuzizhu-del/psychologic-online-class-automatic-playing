@@ -1,1 +1,0 @@
-# psychologic-online-class-automatic-playing
